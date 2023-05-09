@@ -1,0 +1,94 @@
+[{
+	"accountFlagsAfter" : {
+		"activationStatusFlag" : "1",
+		"negativeBarringStatusFlag" : "0",
+		"serviceFeePeriodExpiryFlag" : "0",
+		"serviceFeePeriodWarningActiveFlag" : "0",
+		"supervisionPeriodExpiryFlag" : "0",
+		"supervisionPeriodWarningActiveFlag" : "0"
+	},
+	"accountFlagsBefore" : {
+		"activationStatusFlag" : "1",
+		"negativeBarringStatusFlag" : "0",
+		"serviceFeePeriodExpiryFlag" : "0",
+		"serviceFeePeriodWarningActiveFlag" : "0",
+		"supervisionPeriodExpiryFlag" : "0",
+		"supervisionPeriodWarningActiveFlag" : "0"
+	},
+	"accountValue1" : "4599",
+	"creditClearanceDate" : "20230813T12:00:00+0000",
+	"currency1" : "TND",
+	"dedicatedAccountInformation" : [
+		{
+			"dedicatedAccountActiveValue1" : "0",
+			"dedicatedAccountID" : "1",
+			"dedicatedAccountUnitType" : "1",
+			"dedicatedAccountValue1" : "0",
+			"expiryDate" : "99991231T00:00:00+1200",
+			"startDate" : "99991231T00:00:00+1200"
+		},
+		{
+			"dedicatedAccountActiveValue1" : "0",
+			"dedicatedAccountID" : "2",
+			"dedicatedAccountUnitType" : "1",
+			"dedicatedAccountValue1" : "0",
+			"expiryDate" : "99991231T00:00:00+1200",
+			"startDate" : "99991231T00:00:00+1200"
+		},
+		{
+			"dedicatedAccountActiveValue1" : "0",
+			"dedicatedAccountID" : "6",
+			"dedicatedAccountUnitType" : "1",
+			"dedicatedAccountValue1" : "0",
+			"expiryDate" : "99991231T00:00:00+1200",
+			"startDate" : "99991231T00:00:00+1200"
+		},
+		{
+			"dedicatedAccountActiveValue1" : "0",
+			"dedicatedAccountID" : "10",
+			"dedicatedAccountUnitType" : "1",
+			"dedicatedAccountValue1" : "0",
+			"expiryDate" : "99991231T00:00:00+1200",
+			"startDate" : "99991231T00:00:00+1200"
+		},
+		{
+			"dedicatedAccountActiveValue1" : "0",
+			"dedicatedAccountID" : "19",
+			"dedicatedAccountUnitType" : "1",
+			"dedicatedAccountValue1" : "0",
+			"expiryDate" : "99991231T00:00:00+1200",
+			"startDate" : "99991231T00:00:00+1200"
+		},
+		{
+			"dedicatedAccountActiveValue1" : "0",
+			"dedicatedAccountID" : "341",
+			"dedicatedAccountUnitType" : "6",
+			"dedicatedAccountValue1" : "1073741824",
+			"expiryDate" : "20230208T12:00:00+0000",
+			"startDate" : "99991231T00:00:00+1200"
+		},
+		{
+			"dedicatedAccountActiveValue1" : "0",
+			"dedicatedAccountID" : "358",
+			"dedicatedAccountUnitType" : "6",
+			"dedicatedAccountValue1" : "21474836480",
+			"expiryDate" : "20230226T12:00:00+0000",
+			"startDate" : "99991231T00:00:00+1200"
+		}
+	],
+	"languageIDCurrent" : "1",
+	"offerInformationList" : [
+		{
+			"expiryDate" : "99991231T00:00:00+1200",
+			"offerID" : "7",
+			"offerType" : "0",
+			"startDate" : "20221228T12:00:00+0000"
+		}
+	],
+	"originTransactionID" : "800",
+	"responseCode" : "0",
+	"serviceClassCurrent" : "5",
+	"serviceFeeExpiryDate" : "20230813T12:00:00+0000",
+	"serviceRemovalDate" : "20231226T12:00:00+0000",
+	"supervisionExpiryDate" : "20230130T12:00:00+0000"
+}]
